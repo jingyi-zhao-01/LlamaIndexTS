@@ -35,5 +35,6 @@
   },
   "dependencies": {
     "notion-md-crawler": "^1.0.2"
-  }
+  },
+  "deprecated": "This package is deprecated and no longer maintained."
 }

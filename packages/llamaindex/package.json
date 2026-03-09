@@ -1,6 +1,7 @@
 {
   "name": "llamaindex",
   "version": "0.12.1",
+  "deprecated": "This package is deprecated and no longer maintained.",
   "license": "MIT",
   "type": "module",
   "keywords": [

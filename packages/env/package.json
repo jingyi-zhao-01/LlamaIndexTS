@@ -137,5 +137,6 @@
     "gpt-tokenizer": {
       "optional": true
     }
-  }
+  },
+  "deprecated": "This package is deprecated and no longer maintained."
 }

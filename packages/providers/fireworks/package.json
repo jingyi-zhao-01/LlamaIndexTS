@@ -37,5 +37,6 @@
   },
   "peerDependencies": {
     "@llamaindex/env": "workspace:*"
-  }
+  },
+  "deprecated": "This package is deprecated and no longer maintained."
 }

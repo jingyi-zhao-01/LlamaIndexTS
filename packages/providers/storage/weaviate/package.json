@@ -49,5 +49,6 @@
   },
   "dependencies": {
     "weaviate-client": "^3.2.3"
-  }
+  },
+  "deprecated": "This package is deprecated and no longer maintained."
 }

@@ -32,5 +32,6 @@
   },
   "dependencies": {
     "xlsx": "^0.18.5"
-  }
+  },
+  "deprecated": "This package is deprecated and no longer maintained."
 }

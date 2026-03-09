@@ -32,5 +32,6 @@
   "dependencies": {
     "@llamaindex/env": "workspace:*",
     "@llamaindex/openai": "workspace:*"
-  }
+  },
+  "deprecated": "This package is deprecated and no longer maintained."
 }

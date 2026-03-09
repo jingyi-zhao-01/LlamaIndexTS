@@ -43,5 +43,6 @@
   "dependencies": {
     "@anthropic-ai/sdk": "0.58.0",
     "remeda": "^2.17.3"
-  }
+  },
+  "deprecated": "This package is deprecated and no longer maintained."
 }

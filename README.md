@@ -1,7 +1,15 @@
+> [!CAUTION]
+>
+> ## Deprecation Notice
+>
+> **This project is deprecated and no longer maintained.**
+>
+> Thank you to everyone who contributed to and used LlamaIndex.TS.
+
 <p align="center">
   <img height="100" width="100" alt="LlamaIndex logo" src="https://ts.llamaindex.ai/square.svg" />
 </p>
-<h1 align="center">LlamaIndex.TS</h1>
+<h1 align="center">LlamaIndex.TS (Deprecated)</h1>
 <h3 align="center">
   Data framework for your LLM application.
 </h3>

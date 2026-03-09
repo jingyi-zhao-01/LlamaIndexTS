@@ -39,5 +39,6 @@
   },
   "dependencies": {
     "@mixedbread-ai/sdk": "^2.2.11"
-  }
+  },
+  "deprecated": "This package is deprecated and no longer maintained."
 }
